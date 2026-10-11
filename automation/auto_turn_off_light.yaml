@@ -2,7 +2,7 @@ blueprint:
   name: Automatically Turn Off Lights
   description: Automatically turn off lights after a delay.
   author: Cory Charlton
-  source_url: https://github.com/CCSWE-Home-Assistant/blueprints/automation/auto_turn_off_light.yaml
+  source_url: https://github.com/ccswe-home-assistant/blueprints/automation/auto_turn_off_light.yaml
   domain: automation
   input:
     light_entities:

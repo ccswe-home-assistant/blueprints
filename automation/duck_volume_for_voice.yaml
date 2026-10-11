@@ -5,7 +5,7 @@ blueprint:
     engaged — ducking the volume, pausing playback, or muting in that order
     of preference — then restore them when it returns to idle.
   author: Cory Charlton
-  source_url: https://github.com/CCSWE-Home-Assistant/blueprints/automation/duck_volume_for_voice.yaml
+  source_url: https://github.com/ccswe-home-assistant/blueprints/automation/duck_volume_for_voice.yaml
   domain: automation
   input:
     voice_satellite_entity:

@@ -4,7 +4,7 @@ blueprint:
     Power off a television when its remote turns on, optionally announcing the
     shutdown over a media player first.
   author: Cory Charlton
-  source_url: https://github.com/CCSWE-Home-Assistant/blueprints/automation/lock_down_television.yaml
+  source_url: https://github.com/ccswe-home-assistant/blueprints/automation/lock_down_television.yaml
   domain: automation
   input:
     television_remote_entity:

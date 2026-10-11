@@ -4,7 +4,7 @@ blueprint:
     Turn on the fans, lights, and switches in a given area. Each device class
     can be excluded via the include toggles.
   author: Cory Charlton
-  source_url: https://github.com/CCSWE-Home-Assistant/blueprints/script/turn_on_area.yaml
+  source_url: https://github.com/ccswe-home-assistant/blueprints/script/turn_on_area.yaml
   domain: script
   input:
     area_id:

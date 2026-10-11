@@ -16,7 +16,7 @@ Two top-level directories matching Home Assistant's blueprint domains:
 Every blueprint's `source_url` points to its location in the public repo:
 
 ```
-https://github.com/CCSWE-Home-Assistant/blueprints/<domain>/<filename>.yaml
+https://github.com/ccswe-home-assistant/blueprints/<domain>/<filename>.yaml
 ```
 
 When **renaming, moving, or adding** a blueprint, update `source_url` to match the new path. Home Assistant uses `source_url` to fetch updates, so a mismatch silently breaks the update flow for users who already imported the blueprint.
